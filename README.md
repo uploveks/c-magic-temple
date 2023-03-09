@@ -16,7 +16,7 @@ The program is divided into three main parts:
 <a name="start-description"></a>
 ## About the project
 
-This project aims to demonstrate string manipulation, cipher decryption, and simple 2-gram analysis. It includes a set of mini-programs, each focusing on one of these aspects. The project is intended for educational purposes and is divided into three parts: magic words, magic ciphers, and two-grams.
+This project aims to demonstrate string manipulation, cipher decryption, and simple 2-gram analysis. It includes a set of mini-programs, each focusing on one of these aspects. The project is divided into three parts: magic words, magic ciphers, and two-grams.
 
 
 ### **Magic Words**
